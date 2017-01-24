@@ -24,6 +24,8 @@ public class MyTest {
 		
 		driver.get("https://facebook.com");
 		
+		driver.close();
+		
 	}
 	
 		
